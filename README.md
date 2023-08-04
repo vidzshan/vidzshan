@@ -9,7 +9,12 @@
 <a href="https://web.facebook.com/vidushan.prabash" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidushan prabash" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__vidu__shan__/" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vidu__shan__" height="30" width="40" /></a>
 <a href="https://youtube.com/@vidushanprabash4978" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vidushan prabash" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20851054/vidushan" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stackoverflow.svg" alt="vidushan prabash" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20851054/vidushan" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12462319" height="30" width="40" /></a>
+<a href="https://leetcode.com/VidushanLNBTI/" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="layanyashoda" height="30" width="40" /></a>
+<a href="https://codesandbox.io/dashboard/recent?workspace=854637cf-0f64-4c6c-8bec-2aff7a0e4d0f" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="layanyashoda" height="30" width="40" /></a>
+
+
+
   
 </p>
 
@@ -22,3 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidushanlnbti&" alt="vidushanlnbti" /></p>
 
+```sh
+Oneday we will be released
+```
