@@ -23,15 +23,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlinlang" width="40" height="40"/> </a>
-
+<a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-<!-- GitHub Readme Stats -->
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=vidushanlnbti&show_icons=true&locale=en)
-
-<!-- GitHub Readme Streak Stats -->
-![GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vidushanlnbti)
-
 
 ```sh
 Oneday we will be released
