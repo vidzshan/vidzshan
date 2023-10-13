@@ -24,8 +24,8 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="kotlinlang" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutter/flutter-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dart/dart-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a2/29/2b/a2292b8c9422d5be494e950cd0bb10c7.png" alt="dart" width="40" height="40"/> </a>
 </p>
 
 ```sh
