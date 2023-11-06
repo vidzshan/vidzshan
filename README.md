@@ -26,7 +26,7 @@
 <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" alt="dart" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://appstimes.in/wp-content/uploads/2015/05/laravel_icon.png" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" alt="laravel" width="40" height="40"/> </a>
 </p>
 
 ```sh
