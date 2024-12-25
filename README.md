@@ -25,9 +25,8 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" alt="kotlinlang" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-  <br>
 <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" alt="dart" width="40" height="40"/> </a>
+<br><a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" alt="dart" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="40" height="40"/> </a>
 </p>
 
