@@ -33,3 +33,52 @@
 ```sh
 Oneday we will be released
 ```
+
+
+**deep narrative workflow** 
+Forming a unified, actionable pipeline for your dance recognition GCN module:
+
+***
+
+**Step 1: Set Up Project Environment for Model Development**  
+Begin by creating a reproducible deep learning workspace (Colab, local GPU, or Dockerized Python setup). Install essential libraries: PyTorch (for GCN and neural network operations), PyTorch Geometric (for graph handling), NumPy/Pandas (for preprocessing), and Essentia (for extracting rhythm features). Clone the SMPL-X repository to enable expressive skeleton modeling relevant to breakdance movements and ensure compatibility with your BRACE dataset by validating with a sample keypoint sequence.
+
+***
+
+**Step 2: Preprocess BRACE Key-Points for Module Input**  
+Load BRACE keypoint annotations (COCO-format JSONs) and preprocess them by normalizing coordinates for consistency across recordings. Calculate joint velocities to capture motion dynamics. Align available audio beat data to individual frames using Essentia, allowing for synchronized multimodal analysis. Store each sample as a structured tensor, ready for sequence batching and graph construction.
+
+***
+
+**Step 3: Define Initial GCN Module Architecture**  
+Design your GCN model to accept per-frame keypoint features, optionally including audio beats and velocity. The input layer should match the output of your preprocessing (e.g., [num_frames, 69 features]). Architect the GCN with an initial graph layer that uses COCO skeleton edge definitions, followed by multiple spatial-temporal convolutional layers to model both pose and rhythm progression. Provide flexibility for future transformer-based extensions if temporal encoding becomes a bottleneck.
+
+***
+
+**Step 4: Tune GCN Hyperparameters and Add Regularization**  
+Systematically experiment with key hyperparameters: set dropout between layers (typically 0.3–0.5) and apply L2 weight decay during optimization. Employ a dynamic learning rate scheduler such as ReduceLROnPlateau and implement early stopping if validation accuracy stalls. Incorporate augmentation by adding random jitter to keypoints (e.g., Gaussian noise, std=0.05), boosting robustness. Closely monitor both train and validation loss, accuracy, and variance to catch overfitting early.
+
+***
+
+**Step 5: Pretraining GCN on NTU RGB+D Dataset**  
+Download NTU RGB+D skeleton data to leverage transfer learning. Map NTU’s 25-joint skeleton to BRACE/COCO’s 17-joint format by carefully aligning joint definitions and optionally averaging when direct correspondence is missing. Pretrain your GCN backbone on NTU, freeze the initial convolution layers, and fine-tune on your BRACE dataset. This hybrid training strategy enables the model to benefit from NTU’s generic motion coverage while adapting to specific dance styles in your dataset.
+
+***
+
+**Step 6: Integrate Essentia Beats and Test Multi-Model GCN**  
+Extract beat onset strength and rhythm metadata for your sequences using Essentia. Augment input features for each frame with audio beat strengths. Test multi-modal variants of your GCN model by concatenating these features and evaluating their impact on validation accuracy. Visualize the temporal alignment of beats to keypoints to ensure correct multimodal input structure and iterate based on model performance.
+
+***
+
+**Addon: Advanced Dance Pipeline Steps (merged into workflow):**  
+- After initial setup, **solidify BRACE data prep** by fully normalizing keypoints, calculating velocities, and concatenating features into the expected tensor shape.
+- **Upgrade to improved GCN**: Extend to a three-layer architecture with dropout for stronger temporal and spatial abstraction.
+- **Integrate augmentation directly** into dataloaders, ensuring every training batch is exposed to slight randomization.
+- **Implement detailed metrics tracking**: Log all relevant metrics (training/validation loss, accuracy, loss variance) and visualize them for robust model diagnostics.
+- **Build a NTU dataset class** to facilitate joint mapping and graph construction, including repeated edges for enhanced temporal graph modeling.
+
+***
+
+**This workflow is tailored for your project goals: it combines advanced regularization, transfer learning, data fusion (auditory and pose), and careful graph topology management to maximize dance motion classification performance and research validity.**
+
+[1](https://www.notion.so/Prioritized-tasks-to-kickstart-module-creation-286143945312807684b8d09ff58a69fb)
