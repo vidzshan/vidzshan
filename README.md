@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vid-Zee</h1>
 <h5 align="center">A researcher and developer specializing in human action recognition using deep learning, especially graph convolutional networks (GCNs) and skeleton data. My work spans skeleton-based annotation, pose estimation, and optimizing video datasets with Python, PyTorch, and cutting-edge annotation tools.</h5>
-<img align="right" width="400" src="https://c4.wallpaperflare.com/wallpaper/958/66/509/death-babies-animation-dark-humor-old-people-children-bed-life-wallpaper-preview.jpg"
+<img align="right" width="400" src="seraphim2.png"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushanlnbti&label=Profile%20views&color=0e75b6&style=flat" alt="vidushanlnbti" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/vidushan-prabash-aa8a36271/" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidushan prabash" height="30" width="40" /></a>
 <a href="https://web.facebook.com/vidushan.prabash" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidushan prabash" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__vidu__shan__/" target="_self"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vidu__shan__" height="30" width="40" /></a>
@@ -62,7 +63,8 @@
   <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a>
 </p>
-
+<img align="right" width="400" src="https://c4.wallpaperflare.com/wallpaper/958/66/509/death-babies-animation-dark-humor-old-people-children-bed-life-wallpaper-preview.jpg"
+<p align="left">
 </p>
 
 </p>
