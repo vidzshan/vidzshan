@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vidushan</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi 👋, I'm Vid-Zee</h1>
+<h3 align="center">A researcher and developer specializing in human action recognition using deep learning, especially graph convolutional networks (GCNs) and skeleton data. My work spans skeleton-based annotation, pose estimation, and optimizing video datasets with Python, PyTorch, and cutting-edge annotation tools.</h3>
 <img align="right" width="400" src="https://c4.wallpaperflare.com/wallpaper/958/66/509/death-babies-animation-dark-humor-old-people-children-bed-life-wallpaper-preview.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushanlnbti&label=Profile%20views&color=0e75b6&style=flat" alt="vidushanlnbti" /> </p>
 
@@ -18,17 +18,107 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android Studio" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1399329694340747271/T5fbWxtN_400x400.png" alt="kotlinlang" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="flutter" width="40" height="40"/> </a>
-<br><a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://appstimes.in/wp-content/uploads/2015/05/dart_icon.png" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" alt="Blender" width="40" height="40"/> </a>
+<h3 align="left">Languages and Tools (Priority Order):</h3>
+<p align="left">
+
+<!-- Python, PyTorch, Deep Learning -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="python" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<!-- Frameworks for Web/App -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://reactjs.org/favicon.ico" alt="react" width="40" height="40"/>
+</a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://developer.mozilla.org/static/img/favicon144.png" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<!-- Backend & Databases -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.microsoft.com/favicon.ico" alt="mssql" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://www.php.net/images/logos/php-logo.svg" alt="php" width="40" height="40"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/>
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
+</a>
+
+<!-- Programming Languages -->
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://www.java.com/inc/img/share_java.png" alt="java" width="40" height="40"/>
+</a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" alt="dart" width="40" height="40"/>
+</a>
+
+<!-- Mobile & UI/UX -->
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
+</a>
+<a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="flutter" width="40" height="40"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://static.figma.com/app/icon/1/favicon.png" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.sketch.com/images/pages/favicon.png" alt="sketch" width="40" height="40"/>
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" alt="photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.blender.org/wp-content/uploads/2013/10/favicon.ico" alt="Blender" width="40" height="40"/>
+</a>
+
+<!-- Styling & Automation -->
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://tailwindcss.com/_next/static/media/favicon-black.f831cc49.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="sass" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://www.selenium.dev/images/selenium_logo-square.png" alt="selenium" width="40" height="40"/>
+</a>
+
 </p>
+
 
 ```sh
 Oneday we will be released
