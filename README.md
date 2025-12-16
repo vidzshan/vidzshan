@@ -46,6 +46,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/68ee0ae1e9e6a4e9a2528077_Group%2049.svg" alt="Langchain" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">🛠️ Frameworks/Frontend & Utilities</h3>
