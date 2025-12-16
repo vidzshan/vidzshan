@@ -62,6 +62,8 @@
   <a href="https://figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a>
+  <a href="https://www.opengl.org/" target="_blank"><img src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL" width="40" height="40"/></a>
+  <a href="https://www.metaseq.net/en/" target="_blank"><img src="https://www.metaseq.net/en/image/logo_Metasequoia4.png" alt="metaseq" width="40" height="40"/></a>
 </p>
 <img align="right" width="400" src="https://c4.wallpaperflare.com/wallpaper/958/66/509/death-babies-animation-dark-humor-old-people-children-bed-life-wallpaper-preview.jpg"
 <p align="left">
