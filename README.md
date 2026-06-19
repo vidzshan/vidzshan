@@ -77,6 +77,24 @@
 Oneday we will be released
 ```
 
+Skill 1 – Become “the AI person”
+Be the go‑to AI person in your current role or team, not “the world’s best AI engineer.” You pick one main AI tool (for him, Claude as of May 2026) and use it to improve a real workflow at your current job, document before/after, and show people the ROI so you become known internally as the AI person.
+
+Skill 2 – Taste and judgment
+Develop the ability to decide whether an AI output is actually good enough to put your name on. You study great work in your field, build a library of examples that fit your voice, and constantly feed corrections back into the model so it learns your style and quality bar; the core idea is “AI can generate the work, taste decides what deserves your name.”
+
+Skill 3 – Become a context engineer (not just a prompt engineer)
+Move beyond clever prompts and instead focus on giving the model rich, persistent context about your world (docs, past campaigns, meeting transcripts, etc.). He defines context engineering as “filling the context window with just the right information,” likens it to onboarding a smart intern, and says you should stop opening blank chats and instead spin up projects/GPUs with all the relevant internal material loaded.
+
+Skill 4 – Iteration speed
+Increase how fast you can experiment, refine, and ship versions without losing quality. He emphasizes rapid prototyping (build the ugly version quickly, see what breaks, then improve), mastering shortcuts and voice input, and—critically—defining a clear “done” tied to one business metric so you don’t scope‑creep yourself while iterating.
+
+Skill 5 – Build your own “Jarvis” (always‑on systems)
+Design systems that run in the background and trigger off predictable events, instead of only running when you manually press a button. The key meta‑skill is knowing when you actually need an AI agent (slot machine: variable, reasoning‑heavy) versus when a simple deterministic workflow or script (vending machine: same input, same output) is safer, cheaper, and better.
+
+Skill 6 – Build your own unemployment insurance (multiple income streams)
+Use AI to create a few aligned income streams so no single employer or client can “take you out.” He calls this “job stacking”: keep your day job as the foundation and then branch from the same domain (courses, newsletters, micro‑SaaS, consulting, etc.), ideally by “building in public” so opportunities and clients can find you.
+
 
 **deep narrative workflow** 
 Forming a unified, actionable pipeline for your dance recognition GCN module:
